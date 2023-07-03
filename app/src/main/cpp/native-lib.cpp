@@ -1,7 +1,7 @@
 #include <jni.h>
 #include <string>
 
-// 有坑，会报错，必须混合编译
+// 会报错，必须混合编译
 /*#include <libavutil/avutil.h>*/
 
 
